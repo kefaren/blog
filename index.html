@@ -23,9 +23,9 @@
   <main>
     <header>
       <h1>Latest writing</h1>
-      <p>A transparent, dependency-free feed. This demo uses sample data until a public Notion-backed endpoint is added.</p>
+      <p>A transparent, dependency-free feed, published from Notion through GitHub.</p>
     </header>
-    <notion-post-feed limit="6" refresh="60"></notion-post-feed>
+    <notion-post-feed source="./feed.json" limit="10" refresh="60"></notion-post-feed>
   </main>
   <script src="./notion-feed.js"></script>
 </body>
