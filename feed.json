@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-21T15:03:16.458Z",
+  "generatedAt": "2026-07-21T16:41:07.406Z",
   "posts": [
+    {
+      "title": "Setting up a new Github blog",
+      "description": "",
+      "tags": [],
+      "date": "",
+      "collection": "",
+      "url": "https://app.notion.com/p/Setting-up-a-new-Github-blog-3a4bd42f826280cab0e1d969fcaf2d84",
+      "notionUrl": "https://app.notion.com/p/Setting-up-a-new-Github-blog-3a4bd42f826280cab0e1d969fcaf2d84",
+      "slug": "setting-up-a-new-github-blog",
+      "markdown": "content/posts/setting-up-a-new-github-blog.md"
+    },
     {
       "title": "Test Article Here",
       "description": "",
